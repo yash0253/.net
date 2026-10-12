@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\data\\esmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\data\\esmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\validators\\createdepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\validators\\createdepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\exception\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\exception\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\validators\\updatedepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\validators\\updatedepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\dtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\dtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\dtos\\departmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\dtos\\departmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\dtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\dtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|c:\\users\\yash.bagul\\desktop\\projects\\dotnet\\enterpriseservicemanagement\\enterpriseservicemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36D67E7B-2D83-5C6B-49B5-824006DBCF4B}|EnterpriseServiceManagement\\EnterpriseServiceManagement.csproj|solutionrelative:enterpriseservicemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:34:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:33:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ESMDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Data\\ESMDbContext.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Data\\ESMDbContext.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Data\\ESMDbContext.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Data\\ESMDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:56:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:19:14.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:21:58.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:18:14.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:22:41.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:14:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA6wD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:07:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:06:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Models\\Department.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Models\\Department.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:54:10.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Program.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:04:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\ErrorResponseDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\DTOs\\ErrorResponseDto.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\ErrorResponseDto.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\DTOs\\ErrorResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:17:30.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:21:32.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateDepartmentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Validators\\CreateDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Validators\\CreateDepartmentValidator.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Validators\\CreateDepartmentValidator.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Validators\\CreateDepartmentValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:13:10.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Exception\\ConflictException.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Exception\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Exception\\ConflictException.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Exception\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:17:01.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateDepartmentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Validators\\UpdateDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\Validators\\UpdateDepartmentValidator.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\Validators\\UpdateDepartmentValidator.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\Validators\\UpdateDepartmentValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:17:57.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\DTOs\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\DTOs\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:20:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\DepartmentResponseDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\DTOs\\DepartmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\DepartmentResponseDto.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\DTOs\\DepartmentResponseDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:21:02.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\CreateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\DTOs\\CreateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\DTOs\\CreateDepartmentDto.cs",
+              "RelativeToolTip": "EnterpriseServiceManagement\\DTOs\\CreateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:20:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EnterpriseServiceManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\yash.bagul\\Desktop\\Projects\\Dotnet\\EnterpriseServiceManagement\\EnterpriseServiceManagement\\appsettings.json",
+              "RelativeToolTip": "EnterpriseServiceManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T18:01:23.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
