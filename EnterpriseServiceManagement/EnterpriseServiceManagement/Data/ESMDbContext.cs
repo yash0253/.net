@@ -1,9 +1,14 @@
-﻿using EnterpriseServiceManagement.Models;
+﻿
+using EnterpriseServiceManagement.Identity;
+using EnterpriseServiceManagement.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace EnterpriseServiceManagement.Data;
 
-public class ESMDbContext : DbContext
+public class ESMDbContext
+    : IdentityDbContext<AppUser, AppRole, Guid>
 {
     public ESMDbContext(
         DbContextOptions<ESMDbContext> options)
@@ -12,12 +17,16 @@ public class ESMDbContext : DbContext
     }
 
     public DbSet<Department> Departments => Set<Department>();
+
     public DbSet<Employee> Employees => Set<Employee>();
-    protected override void OnModelCreating(
-        ModelBuilder modelBuilder)
+    public DbSet<RolePermission> RolePermissions => Set<RolePermission>();
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        // Configure Identity tables
         base.OnModelCreating(modelBuilder);
 
+        // Department configuration
         modelBuilder.Entity<Department>(entity =>
         {
             entity.HasKey(d => d.Id);
@@ -33,6 +42,8 @@ public class ESMDbContext : DbContext
             entity.HasIndex(d => d.Code)
                 .IsUnique();
         });
+
+        // Employee configuration
         modelBuilder.Entity<Employee>(entity =>
         {
             entity.HasKey(e => e.Id);
@@ -59,9 +70,33 @@ public class ESMDbContext : DbContext
             entity.HasOne(e => e.Department)
                 .WithMany(d => d.Employees)
                 .HasForeignKey(e => e.DepartmentId)
+                .IsRequired()
                 .OnDelete(DeleteBehavior.Restrict);
+        });
+
+        modelBuilder.Entity<RolePermission>(entity =>
+        {
+            entity.HasKey(p => p.Id);
+
+            entity.Property(p => p.Permission)
+                .HasMaxLength(100)
+                .IsRequired();
+
+            entity.HasIndex(p => new { p.RoleId, p.Permission })
+                .IsUnique();
+
+            entity.HasOne(p => p.Role)
+                .WithMany(r => r.Permissions)
+                .HasForeignKey(p => p.RoleId)
+                .OnDelete(DeleteBehavior.Cascade);
         });
     }
 }
 
+
 //ModelBuilder is an EF Core object that you use to tell Entity Framework how your C# classes should be converted into database tables.
+//- HasOne(e => e.Department) — each employee has one related department.
+//- WithMany(d => d.Employees) — a department can have many employees.
+//- HasForeignKey(e => e.DepartmentId) — the employee's DepartmentId connects it to the department.
+//- IsRequired() — every employee must have a department.
+//- OnDelete(DeleteBehavior.Restrict) — prevents deleting a department while employees still reference it.

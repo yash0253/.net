@@ -1,11 +1,13 @@
 ﻿using EnterpriseServiceManagement.DTOs;
 using EnterpriseServiceManagement.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EnterpriseServiceManagement.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class DepartmentsController : ControllerBase
 {
     private readonly IDepartmentService _service;

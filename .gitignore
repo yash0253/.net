@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Application logs
+**/Logs/
+*.log
+
+# User-specific files
+*.user
+*.suo

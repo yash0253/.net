@@ -1,4 +1,6 @@
-﻿namespace EnterpriseServiceManagement.Models;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+
+namespace EnterpriseServiceManagement.Models;
 
 public class Department
 {
@@ -16,3 +18,4 @@ public class Department
 }
 
 //A collection/list of employees belonging to this department.
+//and the users is not StoredProcedure in table columns is not createad just we can acess using department.employee we can acess 

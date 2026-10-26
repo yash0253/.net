@@ -19,4 +19,5 @@ public interface IEmployeeRepository
     Task<bool> ExistsByEmployeeCodeAsync(
         string employeeCode,
         Guid? excludeId = null);
+
 }
